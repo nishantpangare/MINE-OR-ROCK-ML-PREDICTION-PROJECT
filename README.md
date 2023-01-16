@@ -1,0 +1,2 @@
+# MINE-OR-ROCK-ML-PREDICTION-PROJECT
+Machine Learning Project
